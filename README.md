@@ -31,7 +31,7 @@ Finishing logging in:
 
 ![](https://i.imgur.com/xuy2kDP.gif)
 
-Staying logged in even after refreshing an app:
+Staying logged in even after refreshing the app:
 
 ![](https://i.imgur.com/XhjKJtm.gif)
 
