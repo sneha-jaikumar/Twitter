@@ -23,5 +23,15 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Pulling up the app:
+![](https://i.imgur.com/DXJCihD.gif)
+
+Logging in:
+![](https://i.imgur.com/xuy2kDP.gif)
+
+Staying logged in even after refreshing an app:
+![](https://i.imgur.com/pbz7f33.gif)
+
+Logging out:
+![](https://i.imgur.com/grMic1w.gif)
 
