@@ -23,11 +23,11 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-Pulling up the app:
+Pulling up the app and starting to log in:
 
 ![](https://i.imgur.com/DXJCihD.gif)
 
-Logging in:
+Finishing logging in:
 
 ![](https://i.imgur.com/xuy2kDP.gif)
 
@@ -35,7 +35,7 @@ Staying logged in even after refreshing an app:
 
 ![](https://i.imgur.com/pbz7f33.gif)
 
-Logging out:
+Logging out successfully:
 
 ![](https://i.imgur.com/grMic1w.gif)
 
