@@ -6,6 +6,8 @@ Time spent: **4** hours spent in total
 
 ## User Stories
 
+Challenges including changing the size of the image, and lable box in a way so that it is constant across all devices.
+
 The following **required** functionality is completed:
 
 - [x] User sees app icon in home screen and styled launch screen. (1pt)
