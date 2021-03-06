@@ -33,9 +33,8 @@ Finishing logging in:
 
 Staying logged in even after refreshing an app:
 
-![](https://i.imgur.com/H9FAFd5.gif)
 
 Logging out successfully:
 
-![](https://i.imgur.com/grMic1w.gif)
+![](https://i.imgur.com/H9FAFd5.gif)
 
