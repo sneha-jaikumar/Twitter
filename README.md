@@ -2,11 +2,11 @@
 
 This is a basic twitter app to read your tweets.
 
-Time spent: **4** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
-Challenges including changing the size of the image, and lable box in a way so that it is constant across all devices.
+Challenges including changing the size of the image and label box in a way so that it is constant across all devices.
 
 The following **required** functionality is completed:
 
