@@ -25,9 +25,11 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 Composing a Tweet:
+
 ![](https://i.imgur.com/Dqm0X4L.gif)
 
 Favoriting/Retweeting a Tweet:
+
 ![](https://i.imgur.com/xyimzDZ.gif)
 
 
